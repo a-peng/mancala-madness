@@ -1,4 +1,4 @@
-# mancala-madness
+# Mancala Madness
 Mancala with power-ups
 
 Setup:
