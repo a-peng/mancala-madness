@@ -5,6 +5,7 @@ Setup:
 Initially, the board will be set up with four marbles in each of the circular pots. Player 2‛s pots are the top row and the leftmost pot. Player 1 is everything else. When inserting marbles, the powerups will be randomly distributed(there can be more than one of the same power up) along with the 44 marbles (2 powerups on each player‛s side).
 
 Overall behavior (2 players):
+
 -Players alternate taking turns. The youngest player goes first, deemed Player 1, they select a marble pot and the contents of that pot are distributed around the board in a counterclockwise fashion, 1 in each pot including player 1‛s collection but excluding player 2‛s collection.
 - If the last marble dropped is in his/her own collection, they take a free turn.
 - If the last marble dropped is in an empty pot on his/her own side, then you capture that piece and any pieces in the pot directly opposite (all go into the current player‛s collection)
