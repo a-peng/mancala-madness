@@ -1,7 +1,7 @@
 # mancala-madness
 Mancala with power-ups
 
-Setup:/n
+Setup:
 Initially, the board will be set up with four marbles in each of the circular pots. Player 2‛s pots are the top row and the leftmost pot. Player 1 is everything else. When inserting marbles, the powerups will be randomly distributed(there can be more than one of the same power up) along with the 44 marbles (2 powerups on each player‛s side).
 
 Overall behavior (2 players):
@@ -12,8 +12,13 @@ Overall behavior (2 players):
 -Player 1 (if they have any power-ups) has the option to use a powerup (only during their turn). If yes is selected, then the first powerup obtained will be the first executed. If Player 1 has landed in their own pot, then they have the option, once again, to use a power up, the same applies if the power up used is skip. Otherwise, it is Player 2‛s turn (same rules apply).
 -The game ends when all six spaces on one side are empty. The player with marbles still remaining on his/her side when the game ends collects all of those pieces. Count all the pieces in each player‛s collection, the winner is the player with the most pieces.
 
+
 Power-ups:
+
 -Take +2 – when this marble is played, the current player gets two marbles from the opponent‛s collection and places them in their own. If the opponent only has 1 marble in their collection and the powerup is played, the only one marble is collected.
+
 -Squid – when this marble is played, the opponent cannot tell the number of marbles in the pots on either side for 1 turn
+
 -Switch – when this marble is played, the contents of the collection pots are switched 
+
 -Skip – when this marble is played, the current player gets an additional turn/play
