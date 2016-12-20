@@ -12,7 +12,7 @@ Player 1 (if they have any power-ups) has the option to use a powerup (only duri
 The game ends when all six spaces on one side are empty. The player with marbles still remaining on his/her side when the game ends collects all of those pieces. Count all the pieces in each player‛s collection, the winner is the player with the most pieces.
 
 Power-ups:
-1.Take +2 – when this marble is played, the current player gets two marbles from the opponent‛s collection and places them in their own. If the opponent only has 1 marble in their collection and the powerup is played, the only one marble is collected.
-2.Squid – when this marble is played, the opponent cannot tell the number of marbles in the pots on either side for 1 turn
-3.Switch – when this marble is played, the contents of the collection pots are switched 
-4.Skip – when this marble is played, the current player gets an additional turn/play
+-Take +2 – when this marble is played, the current player gets two marbles from the opponent‛s collection and places them in their own. If the opponent only has 1 marble in their collection and the powerup is played, the only one marble is collected.
+-Squid – when this marble is played, the opponent cannot tell the number of marbles in the pots on either side for 1 turn
+-Switch – when this marble is played, the contents of the collection pots are switched 
+-Skip – when this marble is played, the current player gets an additional turn/play
